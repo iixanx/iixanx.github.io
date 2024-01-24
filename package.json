@@ -1,0 +1,29 @@
+{
+  "name": "iixanx.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iixanx/iixanx.github.io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iixanx/iixanx.github.io/issues"
+  },
+  "homepage": "https://github.com/iixanx/iixanx.github.io#readme",
+  "dependencies": {
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.6",
+    "@types/react": "18.2.48",
+    "typescript": "5.3.3"
+  }
+}
